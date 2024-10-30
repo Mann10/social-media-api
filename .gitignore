@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+*.pyo
+
+# Local environment settings
+.env
+*.env
+
+# Media folder (user-uploaded content)
+media/
+
+# Static files (can be generated during deployment)
+staticfiles/
+
+# Ignore migrations
+**/migrations/
+
+# Unit test / coverage reports
+htmlcov/
+*.cover
+*.py,cover
+.cache
+nosetests.xml
+coverage.xml
+*.log
+*.pot
+
+# Environments
+.env
+venv/
+ENV/
+env.bak/
+env/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# Pycharm specific files
+*.iml
+.idea/
